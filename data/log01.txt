@@ -1,0 +1,7 @@
+
+2026-02-14 10:31:02 ERROR module=net msg=Connection failed
+2026-02-14 10:31:05 WARN module=db msg=Slow query
+2026-02-14 10:31:10 ERROR module=net msg=Timeout
+2026-02-14 10:31:15 ERROR module=db msg=Database unavailable
+2026-02-14 10:31:20 WARN module=net msg=Packet loss
+2026-02-14 10:31:25 ERROR module=auth msg=Invalid password
